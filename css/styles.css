@@ -23,9 +23,66 @@ th,td{
 }
 
 th{
-    background-color: rgb(3, 46, 47);
-    color:white;
+    background-color: rgb(70, 70, 70);
+    color:rgb(0, 0, 0);
     font-weight: bold;
     font-style: italic
 }
 
+.hora{
+    background-color: #929292;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    width: 120px;
+}
+
+.pati{
+    background-color: rgb(240, 130, 120);
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Ofimática{
+    background-color: #de95d0;
+    font-style: oblique;
+    font-weight: bold;
+
+}
+
+.SO{
+    background-color: aquamarine;
+    font-style: italic;
+     font-style: oblique;
+    font-weight: bold;
+}
+
+.Ingles{
+    background-color: coral;
+     font-style: oblique;
+    font-weight: bold;
+}
+
+.MME{
+    background-color: greenyellow;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.XL{
+    background-color: rgb(237, 48, 48);
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.IPO{
+    background-color: cadetblue;
+     font-style: oblique;
+    font-weight: bold;
+}
+
+.digi{
+    background-color: springgreen;
+    font-style: oblique;
+    font-weight: bold;
+}
